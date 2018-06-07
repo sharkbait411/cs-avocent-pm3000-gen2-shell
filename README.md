@@ -1,1 +1,1 @@
-# cs-avocent-pm3000-gen2-shell
+# cs-avocent-pm3000-shell
